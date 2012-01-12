@@ -28,7 +28,7 @@ Each of the links below represents a snapshot of the code at a point in the vide
 
 First, you'll have to clone this repository:
 
-    git clone git://github.com/nelstrom/Sencha-Touch-templates-demo.git
+    git clone git://github.com/senchalearn/Templates-demo.git
 
 Change into the directory:
 
@@ -64,18 +64,18 @@ And you can switch between branches with the checkout command. For example, to c
 [1]: http://vimeo.com/16289757
 [2]: http://vimeo.com/16289990
 
-[00]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/00_blank_slate
-[01]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/01_constructing_templates
-[02]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/02_placeholders
-[03]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/03_formatting_functions
-[04]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/04_looping
-[05]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/05_nested_loops
-[06]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/06_conditionals
-[07]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/07_numbering
-[08]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/08_index_and_size
-[09]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/09_parent_object
-[10]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/10_member_functions
-[11]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/11_sharing_member_functions
-[12]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/12_xtemplate_from_DOM
-[13]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/13_serve_with_sinatra
-[14]: https://github.com/nelstrom/Sencha-Touch-templates-demo/tree/14_template_files
+[00]: https://github.com/senchalearn/Templates-demo/tree/00_blank_slate
+[01]: https://github.com/senchalearn/Templates-demo/tree/01_constructing_templates
+[02]: https://github.com/senchalearn/Templates-demo/tree/02_placeholders
+[03]: https://github.com/senchalearn/Templates-demo/tree/03_formatting_functions
+[04]: https://github.com/senchalearn/Templates-demo/tree/04_looping
+[05]: https://github.com/senchalearn/Templates-demo/tree/05_nested_loops
+[06]: https://github.com/senchalearn/Templates-demo/tree/06_conditionals
+[07]: https://github.com/senchalearn/Templates-demo/tree/07_numbering
+[08]: https://github.com/senchalearn/Templates-demo/tree/08_index_and_size
+[09]: https://github.com/senchalearn/Templates-demo/tree/09_parent_object
+[10]: https://github.com/senchalearn/Templates-demo/tree/10_member_functions
+[11]: https://github.com/senchalearn/Templates-demo/tree/11_sharing_member_functions
+[12]: https://github.com/senchalearn/Templates-demo/tree/12_xtemplate_from_DOM
+[13]: https://github.com/senchalearn/Templates-demo/tree/13_serve_with_sinatra
+[14]: https://github.com/senchalearn/Templates-demo/tree/14_template_files
